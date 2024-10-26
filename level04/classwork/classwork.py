@@ -1,0 +1,2 @@
+name="datuna"
+print(name)
