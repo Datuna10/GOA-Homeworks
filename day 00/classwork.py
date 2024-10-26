@@ -1,8 +1,0 @@
-nombr(12+2)
-nomber(18-8)
-nomber(65-19)
-nomber(29-11)
-nomber(9:3)
-nomber(20:50)
-nomber(2*3)
- nomber(8*9)                                                                                                                                                                                                                                                                                                      
