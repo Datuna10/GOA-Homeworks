@@ -1,0 +1,16 @@
+a=5
+
+b=10
+
+print(b+a)
+
+print(b-a)
+
+print(a*d)
+
+print(b:a)
+
+first_name=devit
+least_name=meurmissvili
+
+fuul_naime

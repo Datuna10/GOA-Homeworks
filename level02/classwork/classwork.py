@@ -1,1 +1,0 @@
-print("datuna monromishvili")

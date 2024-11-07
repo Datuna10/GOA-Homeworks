@@ -1,2 +1,0 @@
-name="datuna"
-print(name)
